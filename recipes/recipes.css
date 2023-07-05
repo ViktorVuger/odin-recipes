@@ -1,0 +1,27 @@
+ body {
+    background-color: #fff8e7;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+ .head_line {
+    font-size: 50px;
+    font-family: Calibri;
+    color:#2f6e53;
+    font-weight: bold;
+    
+    background-color: #f7e7ce;
+    height: 200px;
+    
+    text-align: center;
+    text-decoration: underline;
+}
+
+.text {
+   font-size: 30px; 
+   font-weight: normal;
+}
+
+.button {
+    width: 100px;
+}

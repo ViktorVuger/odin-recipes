@@ -1,10 +1,46 @@
+* {
+    font-family: sans-serif;
+}
+
 body {
     background-color: #fff8e7;
     color: black;
 }
 
-.head_line_1 {
+.text {
+    text-align: center;
+
+    background-color: #f7e7ce;
+
+    width: 70%;
+    max-width: 1000px;
+
+    margin:0 auto;
+}
+
+
+#header {
     font-size: 50px;
     color: #2f6e53;
-    font-weight: bolds;
+    font-weight: bold;
+
+    text-decoration: underline;
+
+}
+
+.head_line_2 {
+    font-size: 40px;
+}
+
+img {
+    width: 400px;
+}
+
+
+ul li {
+    list-style-position: inside;
+}
+
+ol li {
+ list-style-position: inside;   
 }
